@@ -39,6 +39,7 @@ class ComposerStaticInitef4d1cb958d722052ae53aa6126924a9
         'M' => 
         array (
             'Michelf\\' => 8,
+            'Mat\\' => 4,
         ),
         'D' => 
         array (
@@ -81,6 +82,10 @@ class ComposerStaticInitef4d1cb958d722052ae53aa6126924a9
         'Michelf\\' => 
         array (
             0 => __DIR__ . '/..' . '/michelf/php-markdown/Michelf',
+        ),
+        'Mat\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'Doctrine\\Instantiator\\' => 
         array (
